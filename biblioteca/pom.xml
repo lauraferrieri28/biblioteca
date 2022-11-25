@@ -33,6 +33,7 @@
       <type>pom</type>
     </dependency>
 
+
   </dependencies>
 
   <build>
@@ -87,6 +88,8 @@
             <mainClass> it.isa.progetto.App</mainClass>
           </configuration>
         </plugin>
+
+        
         
 
       </plugins>
